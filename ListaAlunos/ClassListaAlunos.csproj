@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace ListaAlunos
+{
+	public class ListaAlunos
+	{
+		public Class1()
+		{
+		}
+	}
+
+}
